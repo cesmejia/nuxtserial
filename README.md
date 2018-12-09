@@ -1,6 +1,6 @@
-# nuxtserial boilerplate - A Nuxt boilerplate for serial connections
+# nuxtserial boilerplate - A Nuxt.js / Vue.js boilerplate for serial connections
 
-> A Nuxt.js + Node.js + Express.js + Sockets.io + Node serialport + Vuetify Boilerplate
+> A Nuxt.js / Vue.js + Node.js + Express.js + Sockets.io + Node serialport + Vuetify Boilerplate
 
 ## Build Setup
 
