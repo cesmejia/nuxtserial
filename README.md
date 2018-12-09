@@ -1,4 +1,4 @@
-# nuxtserial boilerplate
+# nuxtserial boilerplate - A Nuxt boilerplate for serial connections
 
 > A Nuxt.js + Node.js + Express.js + Sockets.io + Node serialport + Vuetify Boilerplate
 
