@@ -1,6 +1,6 @@
-# nuxtserial
+# nuxtserial boilerplate
 
-> Nuxt.js + Node.js + Express.js + Sockets.io + Node serialport + Vuetify
+> A Nuxt.js + Node.js + Express.js + Sockets.io + Node serialport + Vuetify Boilerplate
 
 ## Build Setup
 
